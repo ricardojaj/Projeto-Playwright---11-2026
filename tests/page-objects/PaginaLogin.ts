@@ -20,4 +20,8 @@ export default class PaginaLogin {
         await this.page.click('#login-button');
     }
 
+    async verificarLoginBemSucedido() {
+        await expect(this.page).toHaveURL('https://www.saucedemo.com/inventory.html');
+    }
+
 }
