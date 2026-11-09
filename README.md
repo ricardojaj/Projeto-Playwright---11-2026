@@ -24,13 +24,13 @@ A automação será construída gradualmente, contemplando os principais fluxos 
 
 ## 🛠️ Tecnologias utilizadas
 
-| Tecnologia | Finalidade |
-|---|---|
-| Playwright | Automação de testes E2E |
-| TypeScript | Linguagem de programação |
-| Node.js | Ambiente de execução |
-| npm | Gerenciamento de dependências |
-| Git e GitHub | Versionamento e hospedagem |
+| Tecnologia   | Finalidade                    |
+| ------------ | ----------------------------- |
+| Playwright   | Automação de testes E2E       |
+| TypeScript   | Linguagem de programação      |
+| Node.js      | Ambiente de execução          |
+| npm          | Gerenciamento de dependências |
+| Git e GitHub | Versionamento e hospedagem    |
 
 ## 🧪 Cenários de teste
 
@@ -38,8 +38,7 @@ A automação será construída gradualmente, contemplando os principais fluxos 
 
 - [x] Login com credenciais válidas.
 - [x] Login com credenciais inválidas.
-- [ ] Login com campos vazios.
-- [ ] Validação de usuário bloqueado.
+- [x] Login com campos vazios.
 - [ ] Validação de mensagens de erro.
 
 ### 🛍️ Produtos
@@ -76,3 +75,4 @@ playwright.config.ts
 package.json
 .gitignore
 README.md
+```
