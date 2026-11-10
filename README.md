@@ -39,11 +39,10 @@ A automação será construída gradualmente, contemplando os principais fluxos 
 - [x] Login com credenciais válidas.
 - [x] Login com credenciais inválidas.
 - [x] Login com campos vazios.
-- [ ] Validação de mensagens de erro.
 
 ### 🛍️ Produtos
 
-- [ ] Exibição da lista de produtos.
+- [x] Exibição da lista de produtos.
 - [ ] Ordenação de produtos.
 - [ ] Visualização dos detalhes de um produto.
 
